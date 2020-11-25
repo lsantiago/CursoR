@@ -1,0 +1,10 @@
+ Hombres  Mujeres 
+27.07500 29.40333 
+      edad           nom                gen           
+ Min.   :23.61   Length:5           Length:5          
+ 1st Qu.:25.23   Class :character   Class :character  
+ Median :30.10   Mode  :character   Mode  :character  
+ Mean   :28.47                                        
+ 3rd Qu.:30.54                                        
+ Max.   :32.88                                        
+Conclusión: La mayor media de edad se presenta en Mujeres ( 29.40333 ) , mientras que la menor edad en Hombres ( 27.075 )
