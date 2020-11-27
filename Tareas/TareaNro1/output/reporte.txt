@@ -1,0 +1,84 @@
+Especies con mayor abundancia:  Cyanocorax.mystacalis Furnarius.cinnamomeus Mimus.longicaudatus S.bernardi Amazilia.amazilia
+
+-------Summary---------------
+   S.bernardi    Cyclarhis.juganensis Polioptila.plumbea Mimus.longicaudatus Pyrocephalus.rubinus Camptosotoma.obsoletum Glaucidium.peruanum
+ Min.   :0.000   Min.   :0.00000      Min.   :0.00000    Min.   :0.000       Min.   :0.0000       Min.   :0.000          Min.   :0.0000     
+ 1st Qu.:0.000   1st Qu.:0.00000      1st Qu.:0.00000    1st Qu.:0.500       1st Qu.:0.0000       1st Qu.:0.000          1st Qu.:0.0000     
+ Median :1.000   Median :0.00000      Median :0.00000    Median :1.000       Median :1.0000       Median :1.000          Median :0.0000     
+ Mean   :1.481   Mean   :0.03704      Mean   :0.07407    Mean   :1.519       Mean   :0.9259       Mean   :1.074          Mean   :0.3333     
+ 3rd Qu.:2.000   3rd Qu.:0.00000      3rd Qu.:0.00000    3rd Qu.:2.000       3rd Qu.:1.0000       3rd Qu.:2.000          3rd Qu.:0.5000     
+ Max.   :5.000   Max.   :1.00000      Max.   :2.00000    Max.   :5.000       Max.   :4.0000       Max.   :4.000          Max.   :2.0000     
+ Lepidocolaptes.souleyetii Stittasomus.griseicapillus Amazilia.amazilia Columbia.cruziana Crypturellus.transfasciatus  Cacicus.cela  
+ Min.   :0.0000            Min.   :0.0000             Min.   :0.000     Min.   :0.0000    Min.   :0.0000              Min.   :0.000  
+ 1st Qu.:0.0000            1st Qu.:0.0000             1st Qu.:0.000     1st Qu.:0.0000    1st Qu.:0.0000              1st Qu.:0.000  
+ Median :0.0000            Median :0.0000             Median :1.000     Median :0.0000    Median :0.0000              Median :0.000  
+ Mean   :0.9259            Mean   :0.5185             Mean   :1.444     Mean   :0.7778    Mean   :0.5926              Mean   :1.222  
+ 3rd Qu.:2.0000            3rd Qu.:1.0000             3rd Qu.:2.000     3rd Qu.:0.0000    3rd Qu.:1.0000              3rd Qu.:2.500  
+ Max.   :4.0000            Max.   :3.0000             Max.   :5.000     Max.   :6.0000    Max.   :4.0000              Max.   :5.000  
+ Icterus.graceannae Dives.warszewiczi Crotophaga.sulcirostris Cyanocorax.mystacalis Campylorhynchus.fasciatus Furnarius.cinnamomeus
+ Min.   :0.0000     Min.   :0.000     Min.   :0.000           Min.   :0.000         Min.   :0.00              Min.   :0.000        
+ 1st Qu.:0.0000     1st Qu.:0.000     1st Qu.:0.000           1st Qu.:2.000         1st Qu.:0.00              1st Qu.:1.000        
+ Median :0.0000     Median :1.000     Median :0.000           Median :3.000         Median :1.00              Median :2.000        
+ Mean   :0.5926     Mean   :1.074     Mean   :1.222           Mean   :3.259         Mean   :1.37              Mean   :2.111        
+ 3rd Qu.:1.0000     3rd Qu.:2.000     3rd Qu.:2.500           3rd Qu.:4.500         3rd Qu.:2.00              3rd Qu.:3.500        
+ Max.   :4.0000     Max.   :4.000     Max.   :6.000           Max.   :9.000         Max.   :9.00              Max.   :5.000        
+ Geranospiza.caerulescens Sicalis.flaveola Micrastur.ruficollis Momotus.momota   Troglodytes.aedon Progne.chalybea Forpus.coelestis
+ Min.   :0.0000           Min.   :0.000    Min.   :0.00000      Min.   :0.0000   Min.   :0.0000    Min.   :0.000   Min.   :0.000   
+ 1st Qu.:0.0000           1st Qu.:0.000    1st Qu.:0.00000      1st Qu.:0.0000   1st Qu.:0.0000    1st Qu.:0.000   1st Qu.:0.000   
+ Median :0.0000           Median :0.000    Median :0.00000      Median :0.0000   Median :0.0000    Median :0.000   Median :0.000   
+ Mean   :0.1481           Mean   :1.074    Mean   :0.03704      Mean   :0.5556   Mean   :0.2222    Mean   :1.185   Mean   :1.185   
+ 3rd Qu.:0.0000           3rd Qu.:2.000    3rd Qu.:0.00000      3rd Qu.:1.0000   3rd Qu.:0.0000    3rd Qu.:2.500   3rd Qu.:1.500   
+ Max.   :1.0000           Max.   :4.000    Max.   :1.00000      Max.   :3.0000   Max.   :4.0000    Max.   :5.000   Max.   :8.000   
+ Thryothorus.superciliaris Parula.pitiayumi Polioptila.plumbea.1 Basileuterus.fraseri Cathartes.aura   Chondrohierax.unciatus
+ Min.   :0.00000           Min.   :0.0000   Min.   :0.0000       Min.   :0.00000      Min.   : 0.000   Min.   :0.00000       
+ 1st Qu.:0.00000           1st Qu.:0.0000   1st Qu.:0.0000       1st Qu.:0.00000      1st Qu.: 0.000   1st Qu.:0.00000       
+ Median :0.00000           Median :0.0000   Median :0.0000       Median :0.00000      Median : 0.000   Median :0.00000       
+ Mean   :0.03704           Mean   :0.1852   Mean   :0.1481       Mean   :0.03704      Mean   : 1.222   Mean   :0.03704       
+ 3rd Qu.:0.00000           3rd Qu.:0.0000   3rd Qu.:0.0000       3rd Qu.:0.00000      3rd Qu.: 1.500   3rd Qu.:0.00000       
+ Max.   :1.00000           Max.   :2.0000   Max.   :2.0000       Max.   :1.00000      Max.   :12.000   Max.   :1.00000       
+ Campephilus.gayaquilensis Myiopagis.subplacens Dendrocygna.autummalis Rhodospingus.cruentus Trogon.mesurus   Coragyps.atratus
+ Min.   :0.00000           Min.   :0.00000      Min.   :0.0000         Min.   :0.0000        Min.   :0.0000   Min.   :0.0000  
+ 1st Qu.:0.00000           1st Qu.:0.00000      1st Qu.:0.0000         1st Qu.:0.0000        1st Qu.:0.0000   1st Qu.:0.0000  
+ Median :0.00000           Median :0.00000      Median :0.0000         Median :0.0000        Median :0.0000   Median :0.0000  
+ Mean   :0.03704           Mean   :0.07407      Mean   :0.1111         Mean   :0.2593        Mean   :0.2593   Mean   :0.8148  
+ 3rd Qu.:0.00000           3rd Qu.:0.00000      3rd Qu.:0.0000         3rd Qu.:0.0000        3rd Qu.:0.0000   3rd Qu.:1.0000  
+ Max.   :1.00000           Max.   :2.00000      Max.   :3.0000         Max.   :2.0000        Max.   :3.0000   Max.   :5.0000  
+ Myiarchus.tuberculifer Icterus.graceannae.1 Leptotila.verreauxi Troglodytes.aedon.1 Tyrannus.niveigularis Myiodynastes.maculatus
+ Min.   :0.0000         Min.   :0.0000       Min.   :0.0000      Min.   :0.00000     Min.   :0.00000       Min.   :0.00000       
+ 1st Qu.:0.0000         1st Qu.:0.0000       1st Qu.:0.0000      1st Qu.:0.00000     1st Qu.:0.00000       1st Qu.:0.00000       
+ Median :0.0000         Median :0.0000       Median :0.0000      Median :0.00000     Median :0.00000       Median :0.00000       
+ Mean   :0.2222         Mean   :0.1111       Mean   :0.1481      Mean   :0.03704     Mean   :0.07407       Mean   :0.03704       
+ 3rd Qu.:0.0000         3rd Qu.:0.0000       3rd Qu.:0.0000      3rd Qu.:0.00000     3rd Qu.:0.00000       3rd Qu.:0.00000       
+ Max.   :2.0000         Max.   :2.0000       Max.   :3.0000      Max.   :1.00000     Max.   :1.00000       Max.   :1.00000       
+ Veniliornis.callonotus Picumnus.olivaceus Claravis.pretiosa Zenaida.meloda   Colibri.coruscans Dryocopus.lineatus Sporophila.corvina
+ Min.   :0.0000         Min.   :0.00000    Min.   :0.00000   Min.   :0.0000   Min.   :0.0000    Min.   :0.0000     Min.   :0.00000   
+ 1st Qu.:0.0000         1st Qu.:0.00000    1st Qu.:0.00000   1st Qu.:0.0000   1st Qu.:0.0000    1st Qu.:0.0000     1st Qu.:0.00000   
+ Median :0.0000         Median :0.00000    Median :0.00000   Median :0.0000   Median :0.0000    Median :0.0000     Median :0.00000   
+ Mean   :0.8519         Mean   :0.03704    Mean   :0.07407   Mean   :0.1481   Mean   :0.1111    Mean   :0.2593     Mean   :0.03704   
+ 3rd Qu.:1.5000         3rd Qu.:0.00000    3rd Qu.:0.00000   3rd Qu.:0.0000   3rd Qu.:0.0000    3rd Qu.:0.0000     3rd Qu.:0.00000   
+ Max.   :4.0000         Max.   :1.00000    Max.   :2.00000   Max.   :2.0000   Max.   :2.0000    Max.   :2.0000     Max.   :1.00000   
+ Myiodinastes.maculatus Myiodinastes.bairdii  Turdus.reevi    Synallaxis.stictothorax Thraupis.episcopus Platypsaris.homochrous
+ Min.   :0.0000         Min.   :0.0000       Min.   :0.0000   Min.   :0.00000         Min.   :0.0000     Min.   :0.00000       
+ 1st Qu.:0.0000         1st Qu.:0.0000       1st Qu.:0.0000   1st Qu.:0.00000         1st Qu.:0.0000     1st Qu.:0.00000       
+ Median :0.0000         Median :0.0000       Median :0.0000   Median :0.00000         Median :0.0000     Median :0.00000       
+ Mean   :0.3704         Mean   :0.2593       Mean   :0.2593   Mean   :0.07407         Mean   :0.1111     Mean   :0.07407       
+ 3rd Qu.:0.0000         3rd Qu.:0.0000       3rd Qu.:0.0000   3rd Qu.:0.00000         3rd Qu.:0.0000     3rd Qu.:0.00000       
+ Max.   :5.0000         Max.   :3.0000       Max.   :3.0000   Max.   :2.00000         Max.   :3.0000     Max.   :1.00000       
+ Herpetotheres.cachinnans Campylorhamphus.trochilirostris Columba.subvinacea Icterus.mesomelas Parabuteo.unicintus Picumnus.sclateri
+ Min.   :0.00000          Min.   :0.00000                 Min.   :0.00000    Min.   :0.00000   Min.   :0.00000     Min.   :0.0000   
+ 1st Qu.:0.00000          1st Qu.:0.00000                 1st Qu.:0.00000    1st Qu.:0.00000   1st Qu.:0.00000     1st Qu.:0.0000   
+ Median :0.00000          Median :0.00000                 Median :0.00000    Median :0.00000   Median :0.00000     Median :0.0000   
+ Mean   :0.03704          Mean   :0.03704                 Mean   :0.07407    Mean   :0.03704   Mean   :0.07407     Mean   :0.5185   
+ 3rd Qu.:0.00000          3rd Qu.:0.00000                 3rd Qu.:0.00000    3rd Qu.:0.00000   3rd Qu.:0.00000     3rd Qu.:0.0000   
+ Max.   :1.00000          Max.   :1.00000                 Max.   :2.00000    Max.   :1.00000   Max.   :1.00000     Max.   :4.0000   
+ Thamnophilus.zarumae Xenops.minutus   Aratinga.erythrogenys
+ Min.   :0.0000       Min.   :0.0000   Min.   :0.0000       
+ 1st Qu.:0.0000       1st Qu.:0.0000   1st Qu.:0.0000       
+ Median :0.0000       Median :0.0000   Median :0.0000       
+ Mean   :0.1852       Mean   :0.2222   Mean   :0.1852       
+ 3rd Qu.:0.0000       3rd Qu.:0.0000   3rd Qu.:0.0000       
+ Max.   :2.0000       Max.   :5.0000   Max.   :3.0000       
+
+
+-------Analysis---------------
+Luego del analisis desarrollado la especie más dominante es  Cyanocorax.mystacalis con un total de  88
