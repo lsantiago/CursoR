@@ -1,6 +1,6 @@
 
-ecuacionCuadratica <- function(a, b, c){
-  #' ecuadratica Determina la solución de una Ecuación Cuadrática
+ecuacionCuadratica <- function(a=0, b=0, c=0){
+  #' ecuacionCuadratica Determina la solución de una Ecuación Cuadrática
   #' 
   #' 
   #' @param a Coeficiente de x^2
