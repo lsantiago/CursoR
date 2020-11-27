@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lsantiago/CursoR/main)
+
 # CursoR
 Manejo de datos, análisis y representación gráfica usando R
 
