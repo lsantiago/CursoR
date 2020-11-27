@@ -1,4 +1,7 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lsantiago/CursoR/main)
+Jupyter+R: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lsantiago/CursoR/main)
+
+RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/lsantiago/CursoR/main?urlpath=rstudio)
+
 
 # CursoR
 Manejo de datos, análisis y representación gráfica usando R
