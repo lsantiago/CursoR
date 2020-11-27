@@ -6,7 +6,7 @@ cat(instrucciones, sep = "\n")
 sink()
 
 ## Descargar datos de aves ----
-
+setwd("./Tareas/TareaNro1")
 data <- read.csv("https://raw.githubusercontent.com/Ciespinosa/datos_practicas/master/Aves_temporal2.csv", sep = ";", header=T) 
 write.csv(data, "data/aves.csv", row.names = F)
 
