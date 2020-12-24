@@ -18,7 +18,7 @@ El curso esta esta organizado en cuatro unidades en cada unidad se desarrollará
 
 1. Introducción a R
   - Conociendo
-  - Los objetos en R
+  - [Los objetos en R](https://github.com/lsantiago/CursoR/blob/main/Docs/02.Objetos.pdf)
 2. Manipulación y limpieza de datos con R
   - Indexación
   - Datos ordenados
