@@ -1,0 +1,7 @@
+Mensaje ordenado: e x t r a i g a NA l o s NA d a t o s NA e n NA l a NA p o s i c i o n NA q u e NA I n d i c a NA e l NA o b j e t o NA d n u m NA a s d g e t h y d u j b f d e r t y a w q f h u i p o j m e e as d r f s h s w dElementos globales de la matriz nobj, posiciones 1, 10, 12, 14: d n u m  loc grup ord
+1   2    a   1
+2   5    a   2
+3   8    a   3
+4  11    a   4
+5  14    a   5
+usted ha realizado  un trabajo
