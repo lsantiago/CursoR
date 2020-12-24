@@ -17,10 +17,10 @@ Manejo de datos, análisis y representación gráfica usando R
 El curso esta esta organizado en cuatro unidades en cada unidad se desarrollarán actividades y ejercicios que le permitan 
 
 1. Introducción a R
-  - [Conociendo](../CursoR/Docs/01.ConociendoR.pdf)
+  - [Conociendo](https://github.com/lsantiago/CursoR/blob/main/Docs/01.ConociendoR.pdf)
   - [Los objetos en R](https://github.com/lsantiago/CursoR/blob/main/Docs/02.Objetos.pdf)
 2. Manipulación y limpieza de datos con R
-  - [Indexación](../CursoR/Docs/03.Indexacion.pdf)
+  - [Indexación](https://github.com/lsantiago/CursoR/blob/main/Docs/03.Indexacion.pdf)
   - Datos ordenados
   - Herramientas para ordenar los datos
   - Herramientas para reformar los datos
